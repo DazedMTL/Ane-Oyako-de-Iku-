@@ -8,4 +8,4 @@ Export text from message.dat
 
 Import text and rebuild message.dat
 
-./MsgTool -b shift_jis message.dat
+./MsgTool -b shift_jis gbk message.dat
